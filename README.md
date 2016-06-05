@@ -35,6 +35,7 @@ Installation
 ---------------------
 
 1. $ cd REDMINE_ROOT/plugins
-2. $ git clone https://github.com/yama07/redmine_export_with_journals_and_changesets.git
-3. $ git checkout with_changesets
-4. restart redmine
+2. $ git clone https://github.com/yama07/redmine_export_with_journals.git
+3. $ cd redmine_export_with_journals
+4. $ git checkout with_changesets
+5. restart redmine
